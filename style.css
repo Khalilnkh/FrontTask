@@ -1,0 +1,33 @@
+h3{
+    color:darkcyan;
+    font-size: 48px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.btn{
+    display: inline-block;
+    margin-left: 5px;
+}
+.h1class{
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 0px;
+    color: wheat;
+    margin-top: 15px;
+}
+#todo{
+    border: 1px solid black;
+    padding:15px;
+}
+.divc{
+    display: flex;
+    background-color: dodgerblue;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+    margin-top: 15px;
+}
